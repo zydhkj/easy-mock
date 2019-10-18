@@ -218,33 +218,4 @@ The QQ group number is **595325417**, and here's the QR code of the group:
 
 
 
-## Core Contributors
 
-<table id="contributors">
-<tr>
-  <td>
-    <a href="https://github.com/chuangker">
-      <img src="https://avatars3.githubusercontent.com/u/7939566?v=4&s=100"><br><span>chuangker</span>
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/XadillaX">
-      <img src="https://avatars0.githubusercontent.com/u/2842176?v=4&s=100"><br><span>XadillaX</span>
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/ostoc">
-      <img src="https://avatars2.githubusercontent.com/u/3025708?v=4&s=100"><br><span>ostoc</span>
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/xinyu198736">
-      <img src="https://avatars3.githubusercontent.com/u/897401?v=4&s=100"><br><span>xinyu198736</span>
-    </a>
-  </td>
-</tr>
-</table>
-
-## License
-
-[GPL-3.0](https://opensource.org/licenses/GPL-3.0)
